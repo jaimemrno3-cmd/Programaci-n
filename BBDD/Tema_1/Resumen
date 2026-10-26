@@ -1,0 +1,38 @@
+Tipos de atributo
+
+    Simples: Fáciles de identidicar, inherentes a la entidad y sin capacidad para descomponerse
+    Compuestos: Bajo el mismo nombre agrupa varios atributos simples, cada uno son un significado diferente
+    Multievaluados: Conjunto de valores para cada ocurrencia.
+    Deribados: Aquel que puede ser generado por otros atributos.
+
+Claves 
+
+    Tipo de atributos simples o conjuntos de estos que se identifican de manera unica en cada ocurrencia de la entidad.
+    No pueden existir dos valores igualesde la clave para diferentesocurrencias de la entidad.
+
+Tipos de claves 
+
+    Claves candidatas: Conjunto de claves que se pueden definir sobre la misma entidad.
+
+Modelo conceptual
+
+    Pasos para llevar a la practica:
+
+        1. Identificar entidades.
+        2. Identificar las PK.
+        3. Identificación de asociaciones indicando grado y clave principal.
+        4. Representación del modelo E-R.
+        5. Identificación de atributos de entidades y asociados.
+        6. Verificaciones.
+
+Identificaciñon de entidades
+
+    Primero se deben de conocer el funcionamiento de la tarea, pensaremos en:
+
+        - Objetos reales.
+        - Documentos.
+        - Personas.
+        - Actividades.
+        - Objetos abstractos.
+
+
